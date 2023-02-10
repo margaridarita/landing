@@ -1,0 +1,39 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 120px 0 120px 0;
+}
+
+
+.banner h1 {
+  color: #F2F4CB;
+  text-shadow: rgb(255, 227, 115) 1px 0 2px;;
+  margin: 0;
+}
+
+.banner p {
+  color: #F2F4CB;
+  font-size: 22px;
+}
+
+.banner .button {
+  display: block;
+  background-color: #F2F4CB;
+  border: 2px solid #110B11;
+  border-radius: 10px;
+  padding: 10px 20px;
+  width: 120px;
+  text-align: center;
+  transition: 0.3s ease-in-out;
+}
+
+.banner .button:hover {
+  color: #F2F4CB;
+  background-color: #110B11;
+  cursor: pointer;
+}
+
+.banner .container {
+  margin: 0 0 0 80px;
+}
