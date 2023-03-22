@@ -5,15 +5,15 @@
   text-align: center;
 }
 
+.fa-brands {
+  color: #A5D0A8;
+  margin: 0 7px 0 7px;
+}
+
 .footer p {
   font-size: 12px;
   font-weight: lighter;
   color: #F2F4CB;
   margin: 0;
   padding-top: 10px;
-}
-
-.fa-brands {
-  color: #A5D0A8;
-  margin: 0 7px 0 7px;
 }
